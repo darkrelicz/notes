@@ -1,11 +1,7 @@
-# Obsidian Notes
+# Welcome!
 
-Publish your public notes with MkDocs
+Welcome to my blog! 
 
-## Hello World!
+This blog is a personal knowledge base built from hands-on experience and studies across platforms like Hack The Box (HTB) and SANS GIAC. 
 
-The `index.md` in the `/docs` folder is the homepage you see here.
-
-The folders in `/docs` appear as the main sections on the navigation bar.
-
-The notes appear as pages within these sections. For example, [[Note 1]] in `Topic 1`
+As I learn new concepts and techniques, I will try my best to outline them here and make them as intuitive as possible.
